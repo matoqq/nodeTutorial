@@ -1,0 +1,9 @@
+** 1. Installing Node on Android **
+
+1.1 	install Termux app
+1.2	install Node using
+	^^packages install nodejs^^
+1.3 	create new folder “goals-tracker” using
+	^^mkdir goals-tracker^^
+	and go into it by
+	^^cd goals-tracker^^
